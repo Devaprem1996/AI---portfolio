@@ -18,7 +18,7 @@ const Hero: React.FC = () => {
           transition={{ duration: 0.8, ease: "easeOut" }}
           className="flex flex-col"
         >
-          <span className="text-brand-accent font-mono text-sm md:text-lg mb-4 tracking-widest">JUNIOR AI AUTOMATION EXPERT</span>
+          <span className="text-brand-accent font-mono text-sm md:text-lg mb-4 tracking-widest">AI AUTOMATION EXPERT</span>
           <h1 className="text-5xl md:text-6xl lg:text-9xl font-display font-bold leading-tight text-white">
             HELLO, I'M <br />
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-white to-gray-500">

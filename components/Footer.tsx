@@ -24,7 +24,7 @@ const Footer: React.FC = () => {
               href="mailto:devaprem@example.com" 
               className="inline-flex items-center gap-4 text-xl md:text-3xl lg:text-4xl font-display font-bold hover:text-brand-accent transition-colors border-b-2 border-white/20 hover:border-brand-accent pb-2 break-all"
             >
-              devaprem@example.com
+              devaprem10@gmail.com
             </a>
           </motion.div>
 
@@ -40,7 +40,7 @@ const Footer: React.FC = () => {
               </div>
               <div>
                 <h4 className="text-sm uppercase tracking-widest text-gray-500 mb-2">Role</h4>
-                <p className="text-lg md:text-xl font-display">Junior AI Automation Expert</p>
+                <p className="text-lg md:text-xl font-display">AI Automation Expert</p>
               </div>
             </div>
 
