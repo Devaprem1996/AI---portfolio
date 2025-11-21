@@ -24,7 +24,7 @@ const Footer: React.FC = () => {
               href="mailto:devaprem@example.com" 
               className="inline-flex items-center gap-4 text-xl md:text-3xl lg:text-4xl font-display font-bold hover:text-brand-accent transition-colors border-b-2 border-white/20 hover:border-brand-accent pb-2 break-all"
             >
-              devaprem10@gmail.com
+              devaprem@example.com
             </a>
           </motion.div>
 
@@ -59,11 +59,11 @@ const Footer: React.FC = () => {
         <div className="lg:absolute lg:bottom-12 lg:left-0 w-full lg:px-6 mt-8 lg:mt-0">
             <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row justify-between items-center gap-8">
             <div className="text-gray-500 text-sm text-center md:text-left">
-                © 2025 Devaprem Portfolio.
+                © 2024 Devaprem Portfolio.
             </div>
 
             <div className="flex gap-8">
-                <a href="https://github.com/Devaprem1996" className="text-gray-400 hover:text-white hover:scale-110 transition-all"><Github size={24} /></a>
+                <a href="#" className="text-gray-400 hover:text-white hover:scale-110 transition-all"><Github size={24} /></a>
                 <a href="#" className="text-gray-400 hover:text-white hover:scale-110 transition-all"><Linkedin size={24} /></a>
                 <a href="#" className="text-gray-400 hover:text-white hover:scale-110 transition-all"><Twitter size={24} /></a>
             </div>
