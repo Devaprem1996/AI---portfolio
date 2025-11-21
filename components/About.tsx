@@ -16,7 +16,7 @@ const About: React.FC = () => {
           >
             <div className="w-full h-full overflow-hidden rounded-2xl shadow-2xl">
               <img 
-                src="/devaprem.jpg" 
+                src="/public/devaprem.png" 
                 alt="Devaprem Portrait" 
                 className="object-cover w-full h-full grayscale hover:grayscale-0 transition-all duration-700"
               />
